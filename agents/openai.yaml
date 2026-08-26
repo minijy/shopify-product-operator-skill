@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shopify Product Operator"
+  short_description: "Safely orchestrate Shopify product operations."
+  default_prompt: "Use Shopify MCP tools to plan and execute product changes with confirmation."
